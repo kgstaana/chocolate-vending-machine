@@ -31,7 +31,7 @@ You may also see any lint errors in the console.
 
 Folder Structure
 /src
-  /assets - icons, images
+  /assets - icons, images \
   /components - common components of the app
   /context - state management
   /hooks - business logic
