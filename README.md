@@ -31,13 +31,13 @@ You may also see any lint errors in the console.
 
 Folder Structure \
 /src \
-  /assets - icons, images \
-  /components - common components of the app \
-  /context - state management \
-  /hooks - business logic \
-  /mockData - sample data \
-  /modules - main component \
-  /services - responsible for querying and mutation \
-  /tests - unit testing \
+  &nbsp;/assets - icons, images \
+  &nbsp;/components - common components of the app \
+  &nbsp;/context - state management \
+  &nbsp;/hooks - business logic \
+  &nbsp;/mockData - sample data \
+  &nbsp;/modules - main component \
+  &nbsp;/services - responsible for querying and mutation \
+  &nbsp;/tests - unit testing \
 constants.js
 
