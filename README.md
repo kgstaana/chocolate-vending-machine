@@ -29,15 +29,15 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
-Folder Structure
-/src
+Folder Structure \
+/src \
   /assets - icons, images \
-  /components - common components of the app
-  /context - state management
-  /hooks - business logic
-  /mockData - sample data
-  /modules - main component
-  /services - responsible for querying and mutation
-  /tests - unit testing
+  /components - common components of the app \
+  /context - state management \
+  /hooks - business logic \
+  /mockData - sample data \
+  /modules - main component \
+  /services - responsible for querying and mutation \
+  /tests - unit testing \
 constants.js
 
